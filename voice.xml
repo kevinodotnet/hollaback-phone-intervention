@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Say voice="woman">Hello. I didn't actually give you my phone number. Next time, take no for an answer the first time.</Say>
+<Say voice="woman">
+Sometimes people try to destroy you, precisely because they recognize your power. Not because they don't see it, but because they see it and they don't want it to exist.
+</Say>
 </Response>
